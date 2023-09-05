@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tp_machine_lerning.iml" filepath="$PROJECT_DIR$/.idea/tp_machine_lerning.iml" />
     </modules>
   </component>
